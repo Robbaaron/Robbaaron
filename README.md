@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robbaarona, a former designer and current Master’s student specializing in Big Data Analytics at the University of Michigan.
+- 👋 Hi, I’m @Robbaaron, a former designer and current Master’s student specializing in Big Data Analytics at the University of Michigan.
 - 👀 I’m interested in leveraging data to uncover meaningful insights, improve decision-making, and support creative industries.
 - 🌱 I’m currently learning advanced statistical analysis, machine learning, and data visualization techniques using tools like R and Python.
 - 💞️ I’m looking to collaborate on projects that bridge data science and design or focus on storytelling through analytics.
